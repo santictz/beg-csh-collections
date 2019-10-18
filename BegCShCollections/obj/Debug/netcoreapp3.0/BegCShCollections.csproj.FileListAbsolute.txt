@@ -1,0 +1,11 @@
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\bin\Debug\netcoreapp3.0\BegCShCollections.exe
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\bin\Debug\netcoreapp3.0\BegCShCollections.deps.json
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\bin\Debug\netcoreapp3.0\BegCShCollections.runtimeconfig.json
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\bin\Debug\netcoreapp3.0\BegCShCollections.runtimeconfig.dev.json
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\bin\Debug\netcoreapp3.0\BegCShCollections.dll
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\bin\Debug\netcoreapp3.0\BegCShCollections.pdb
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\obj\Debug\netcoreapp3.0\BegCShCollections.csprojAssemblyReference.cache
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\obj\Debug\netcoreapp3.0\BegCShCollections.AssemblyInfoInputs.cache
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\obj\Debug\netcoreapp3.0\BegCShCollections.AssemblyInfo.cs
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\obj\Debug\netcoreapp3.0\BegCShCollections.dll
+C:\Users\v-sacor\Documents\GitHub\BegCShCollections\obj\Debug\netcoreapp3.0\BegCShCollections.pdb
