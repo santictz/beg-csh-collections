@@ -1,0 +1,3 @@
+C:\Users\v-sacor\Documents\GitHub\csharp\beg-csh-collections\TopTenPops\obj\Debug\netcoreapp3.0\TopTenPops.csprojAssemblyReference.cache
+C:\Users\v-sacor\Documents\GitHub\csharp\beg-csh-collections\TopTenPops\obj\Debug\netcoreapp3.0\TopTenPops.AssemblyInfoInputs.cache
+C:\Users\v-sacor\Documents\GitHub\csharp\beg-csh-collections\TopTenPops\obj\Debug\netcoreapp3.0\TopTenPops.AssemblyInfo.cs

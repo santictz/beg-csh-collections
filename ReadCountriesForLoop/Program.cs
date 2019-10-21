@@ -13,6 +13,8 @@ namespace ReadCountriesForLoop
             CsvReader reader = new CsvReader(filepath);
 
             List<Country> countries = reader.ReadAllCountriesList();
+            //If country contains comma, is deleted from the list
+            reader.RemoveCommaCountries(countries);
 
             bool inputIsInt = int.TryParse(Console.ReadLine(), out int userInput);
             if (!inputIsInt || userInput <= 0)

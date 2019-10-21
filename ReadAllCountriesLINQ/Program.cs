@@ -17,7 +17,15 @@ namespace ReadAllCountriesLINQ
             //Limit the enumeration to 10 = country.Take(10)
             //OrderBy must receive an Lambda expression = OrderBy(x=>x.Name)
             //Where query for items that satisfy a condition using a lambda expression
-            foreach (var country in countries.Take(10).Where(x=>!x.Name.Contains(',')))
+
+            //LINQ Query Syntax
+            var filteredCountries = from country in countries
+                                    where !country.Name.Contains(',')
+                                    select country;
+            //LINQ Method Syntax
+            //countries.Take(10).Where(x=>!x.Name.Contains(','))
+
+            foreach (var country in filteredCountries)
             {
                 Console.WriteLine($"Population: {country.Population}");
             }
